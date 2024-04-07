@@ -1,8 +1,10 @@
 
-👨‍🎓 Third-year student at the University of Queensland studying Software and Computer Engineering.
-🧠 Satisfactory knowledge in Java, Python, C, SQL, HTML, CSS, React, and JavaScript, along with experience in Haskell.
-🖥️ Worked on projects involving Embedded systems design and Operating Systems.
-❤️ Passionate about contributing to AI and machine learning projects in the future.,
+<div class="scrolling-text">
+  <p>👨‍🎓 Third-year student at the University of Queensland studying Software and Computer Engineering.</p>
+  <p>🧠 Satisfactory knowledge in Java, Python, C, SQL, HTML, CSS, React, and JavaScript, along with experience in Haskell.</p>
+  <p>🖥️ Worked on projects involving Embedded systems design and Operating Systems.</p>
+  <p>❤️ Passionate about contributing to AI and machine learning projects in the future.</p>
+</div>
 
 ### 🛠️ Languages and Tools:
 <p align="left"> 
@@ -36,3 +38,33 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mohamad11Dab&theme=radical)](https://git.io/streak-stats)
 ![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamad11Dab&show_icons=true&theme=radical)
 
+<style>
+  .scrolling-text {
+    width: 100%;
+    height: 150px; /* Adjust height as needed */
+    overflow: hidden;
+    position: relative;
+    border: 1px solid #ccc; /* Optional: adds a border around the scrolling text */
+    box-sizing: border-box;
+  }
+
+  .scrolling-text p {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    line-height: 150px; /* Adjust line height to match the height of the container */
+    text-align: center;
+    /* Start animation after a delay */
+    animation: scrollUp 20s linear infinite; /* Adjust timing as needed */
+  }
+
+  @keyframes scrollUp {
+    0% {
+      top: 100%;
+    }
+    100% {
+      top: -600%; /* Adjust based on the total height of the content to scroll */
+    }
+  }
+</style>
