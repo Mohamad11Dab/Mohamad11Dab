@@ -38,14 +38,3 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mohamad11Dab&theme=radical)](https://git.io/streak-stats)
 ![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamad11Dab&show_icons=true&theme=radical)
 
-
-
-  @keyframes scrollUp {
-    0% {
-      top: 100%;
-    }
-    100% {
-      top: -600%; /* Adjust based on the total height of the content to scroll */
-    }
-  }
-</style>
