@@ -7,6 +7,6 @@
 
 ❤️ Passionate about contributing to AI and machine learning projects in the future.
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Mohamad11Dab&theme=blueberry" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mohamad11Dab&theme=dark)](https://git.io/streak-stats)
 
 
