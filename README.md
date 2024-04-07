@@ -6,5 +6,5 @@
 
 ### 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mohamad11Dab&theme=dark)](https://git.io/streak-stats)
-
+![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamad11Dab&show_icons=true&theme=radical)
 
