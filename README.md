@@ -1,6 +1,6 @@
 
 <div class="scrolling-text">
-  <p>👨‍🎓 Third-year student at the University of Queensland studying Software and Computer Engineering.</p>
+  <p>👨‍🎓 Fourth-year student at the University of Queensland studying Software and Computer Engineering.</p>
   <p>🧠 Satisfactory knowledge in Java, Python, C, SQL, HTML, CSS, React, and JavaScript, along with experience in Haskell.</p>
   <p>🖥️ Worked on projects involving Embedded systems design and Operating Systems.</p>
   <p>❤️ Passionate about contributing to AI and machine learning projects in the future.</p>
