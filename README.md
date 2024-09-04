@@ -42,11 +42,11 @@
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Mohamad11Dab&theme=radical" alt="GitHub Streak"/>
+        <img src="https://streak-stats.demolab.com?user=Mohamad11Dab&theme=midnight-purple" alt="GitHub Streak"/>
       </a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mohamad11Dab&show_icons=true&theme=radical" alt="Mohamad's GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mohamad11Dab&show_icons=true&theme=midnight-purple" alt="Mohamad's GitHub Stats"/>
     </td>
   </tr>
 </table>
