@@ -38,6 +38,17 @@
 
 
 ### 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mohamad11Dab&theme=radical)](https://git.io/streak-stats)
-![Mohamad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohamad11Dab&show_icons=true&theme=radical)
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Mohamad11Dab&theme=radical" alt="GitHub Streak"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mohamad11Dab&show_icons=true&theme=radical" alt="Mohamad's GitHub Stats"/>
+    </td>
+  </tr>
+</table>
+
 
