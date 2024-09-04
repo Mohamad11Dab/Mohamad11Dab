@@ -3,7 +3,7 @@
 
 <p>Welcome to my page! </br> I'm Mohamad, a Fourth-year student at the University of Queensland studying Software and Computer Engineering 👨‍🎓. </br> I work as a full stack developer at UQ 🧑‍💻 </br> </br> 
 
-## Where to Find Me
+## 🌐 Where to Find Me
 
 <p><a href="https://github.com/Mohamad11Dab" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mohamad-dabboussi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
