@@ -1,7 +1,9 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Mohamad, a Fourth-year student at the University of Queensland studying Software and Computer Engineering 👨‍🎓. </br> I work as a full stack developer at UQ 🧑‍💻 </br> </br> 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+
+I'm Mohamad <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" /></br> a Fourth-year student at the University of Queensland studying Software and Computer Engineering 👨‍🎓. </br> I work as a full stack developer at UQ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br> 
 
 ## 🌐 Where to Find Me
 
