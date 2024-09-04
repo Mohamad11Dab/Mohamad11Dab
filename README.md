@@ -44,11 +44,11 @@ I'm Mohamad <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/ma
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Mohamad11Dab&theme=midnight-purple" alt="GitHub Streak"/>
+        <img src="https://streak-stats.demolab.com?user=Mohamad11Dab&theme=vision-friendly-dark" alt="GitHub Streak"/>
       </a>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mohamad11Dab&show_icons=true&theme=midnight-purple" alt="Mohamad's GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mohamad11Dab&show_icons=true&theme=vision-friendly-dark" alt="Mohamad's GitHub Stats"/>
     </td>
   </tr>
 </table>
