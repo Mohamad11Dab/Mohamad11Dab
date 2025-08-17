@@ -5,8 +5,8 @@
 
 I'm Mohamad <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" /></br> A Fourth-year student at the University of Queensland studying Software Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 ### Work Experience: 
-<img src="https://authenticator.2stable.com/assets/img/2fa-services/Icons/uq.edu.au.svg" width="30"> Undergraduate Full-stack Developer @ University of Queensland (Jan 2024 - Sep 2024)</br> 
-<img src="https://media.licdn.com/dms/image/v2/D560BAQEywMJTu4wlqw/company-logo_200_200/company-logo_200_200/0/1715646217536/emesent_logo?e=1735171200&v=beta&t=2pfQwbVHF3WpSfBMMv_8uJEQKWW5835R9zysa5h_0DA" width="30" > Undergraduate Software Engineer @ Emesent (Present)
+<img src="https://authenticator.2stable.com/assets/img/2fa-services/Icons/uq.edu.au.svg" width="30"> Full-stack Developer @ University of Queensland (Jan 2024 - Sep 2024)</br> 
+<img src="https://media.licdn.com/dms/image/v2/D560BAQEywMJTu4wlqw/company-logo_200_200/company-logo_200_200/0/1715646217536/emesent_logo?e=1735171200&v=beta&t=2pfQwbVHF3WpSfBMMv_8uJEQKWW5835R9zysa5h_0DA" width="30" > Software Engineer @ Emesent (Sep 2024 - Present)
 
 ## 🌐 Where to Find Me
 
